@@ -14,7 +14,7 @@ The Spotify Front Page Clone is a static web page that replicates the user inter
 
 ### Installing
 
-- Clone the repository to your local machine using `git clone [https://your-repository-link](https://github.com/amaan3147/Spotify-Front-Page-Clone.git)`
+- Clone the repository to your local machine using `git clone https://github.com/amaan3147/Spotify-Front-Page-Clone.git`
 - Navigate to the project directory.
 - Open the `index.html` file in your web browser to view the project.
 
